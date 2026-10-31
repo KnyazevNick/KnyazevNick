@@ -1,5 +1,5 @@
-##About me
-I'm Nick - I'm a Backend developer that want to learn Fullstack and work on WEB services. At the moment I'm a high school student and soon I will go to study Computer Science in Europe
+##About me :
+I'm Nick - I'm a backend developer who wants to learn full-stack and work on WEB services. At the moment I'm a high school student and soon I will go to study Computer Science in Europe
 
 ##My stack
 <p align="center">
